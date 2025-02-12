@@ -36,19 +36,12 @@ Trenchscan is a powerful analytical tool designed to provide users with real-tim
 
 3. Trenchroom
 
-Trenchroom is an interactive platform designed for community engagement and collaboration. It includes features such as:
+Trenchroom is an interactive platform designed for community engagement, chat with fellow troomers.
 
-• Discussion Boards: Users can create and participate in discussions on various topics related to cryptocurrency trading, investing strategies, and market news.
-
-• Project Collaboration: Members can work together on projects, share ideas, and collaborate on research or trading strategies.
-
-• Content Sharing: Users can share articles, tutorials, and educational resources to help others learn about cryptocurrency and trading.
-
-• Polls and Surveys: The platform allows users to conduct polls and surveys to gauge community opinions on various topics.
 
 4. Trenchmemes
 
-Trenchmemes allows users to create and share memes related to cryptocurrency culture. This feature not only promotes creativity but also serves as a means of community engagement. Users can express their thoughts on market trends, celebrate successes, or simply entertain their peers through humor.
+Trenchmemes allows users to create and share memes related to degen culture. This feature not only promotes creativity but also serves as a means of community engagement. Users can express their thoughts on market trends, celebrate successes, or simply entertain their peers through humor.
 
 5. Trenchbot
 
